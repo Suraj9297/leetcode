@@ -17,8 +17,7 @@ Each problem is stored in its own folder along with the corresponding solution f
 ## ✨ Features
 
 - 📁 Well-structured repository
-- 🔄 Automatically synced using LeetSync
-- 📌 Accepted LeetCode solutions
+- - 📌 Accepted LeetCode solutions
 - 📚 Personal archive of solved problems
 - 🔍 Easy to navigate
 
