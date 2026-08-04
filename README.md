@@ -14,10 +14,16 @@ leetcode/
 
 Each problem is stored in its own folder along with the corresponding solution files.
 
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/suraj9297?theme=dark&font=Baloo&ext=contest" />
+</p>
+
 ## ✨ Features
 
 - 📁 Well-structured repository
-- - 📌 Accepted LeetCode solutions
+- 📌 Accepted LeetCode solutions
 - 📚 Personal archive of solved problems
 - 🔍 Easy to navigate
 
