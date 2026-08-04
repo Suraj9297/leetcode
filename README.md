@@ -22,14 +22,6 @@ Each problem is stored in its own folder along with the corresponding solution f
 - 📚 Personal archive of solved problems
 - 🔍 Easy to navigate
 
-## 📈 Progress
-
-| Difficulty | Solved |
-|------------|:------:|
-| 🟢 Easy | -- |
-| 🟡 Medium | -- |
-| 🔴 Hard | -- |
-| **Total** | -- |
 
 ---
 
